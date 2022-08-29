@@ -18,3 +18,8 @@ spring:
     defer-datasource-initialization: true
     hibernate:
       ddl-auto: create-drop
+info:
+  app:
+    name: gateway-service
+    description: Movie service for microservice test, Rosario Zamudio
+    version: 1.0.0      
