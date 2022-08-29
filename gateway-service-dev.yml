@@ -17,3 +17,8 @@ spring:
           uri: http://localhost:8084/ 
           predicates: 
             - Path=/catalog/**
+info:
+  app:
+    name: gateway-service
+    description: Gateway service for microservice test, Rosario Zamudio
+    version: 1.0.0
